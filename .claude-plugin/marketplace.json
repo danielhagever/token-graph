@@ -1,0 +1,12 @@
+{
+  "name": "my-mods",
+  "owner": {
+    "name": "danielhagever"
+  },
+  "plugins": [
+    {
+      "name": "token-graph",
+      "source": "./"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "token-graph",
+  "version": "0.2.1",
+  "description": "Shows this chat's token use above the prompt, says when to compact or start a new chat, and graphs it.",
+  "types": "./types/index.d.ts"
+}
